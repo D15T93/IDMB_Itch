@@ -1,0 +1,28 @@
+{
+  "name": "Campaign Console \u00b7 The Indie Dev Marketing Bible",
+  "short_name": "Campaign Console",
+  "description": "Your indie game marketing campaign as a game you play. Guide, tracker, and mission system in one.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#131318",
+  "theme_color": "#131318",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
